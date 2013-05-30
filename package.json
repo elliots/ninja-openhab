@@ -10,7 +10,6 @@
   "author": "Elliot Shepherd",
   "license": "MIT",
   "dependencies": {
-    //"ws":"latest",
     "underscore":"1.4.4",
     "request-json":"latest"
   }
